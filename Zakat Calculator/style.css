@@ -1,0 +1,70 @@
+body{
+    background-color: khaki;
+}
+#heading1{
+    color: green;
+    text-align: center;
+}
+#heading2{
+    margin-top: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#input1{
+    padding: 7px 80px;
+    margin: 10px 500px;
+    border-radius: 10px;
+}
+#heading3{
+    margin-top: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#input2{
+    padding: 7px 80px;
+    margin: 10px 500px;
+    border-radius: 10px;
+}
+#heading4{
+    margin-top: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#input3{
+    padding: 7px 80px;
+    margin: 10px 500px;
+    border-radius: 10px;
+}
+#btn1{
+    padding: 10px 120px;
+    margin: 30px 525px;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#heading5{
+    color: green;
+    margin-top: 50px;
+    text-align: right;
+}
+@media only screen and (max-width: 387px){
+    #input1{
+        margin: 0px;
+        margin-left: 20px;
+    }
+    #input2{
+        margin: 0px;
+        margin-left: 20px;
+    }
+    #input3{
+        margin: 0px;
+        margin-left: 20px;
+    }
+    #btn1{
+        margin: 0px;
+        margin-top: 30px;
+        margin-left: 47px;
+    }
+}
